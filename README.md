@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdullahAlhussein
+- 👋 Hi, I’m  Abdullah AlHussein
 - 👀 I’m interested in Full Stack Web Developers
 - 🌱 I’m currently learning java backend | Spring Boot
 - 💞️ I’m looking to collaborate on Web Development
