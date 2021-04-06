@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:10px">
+<img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:50px">
 <img src="https://user-images.githubusercontent.com/70335592/113714365-fa43d900-96f0-11eb-8642-e33f717d576a.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714384-ff088d00-96f0-11eb-9299-5dc5adfecf17.jpg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714395-0465d780-96f1-11eb-8755-9a59b5b0129e.jpg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
