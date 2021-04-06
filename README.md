@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧰 Languages and Tools:
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:50px">
 <img src="https://user-images.githubusercontent.com/70335592/113714365-fa43d900-96f0-11eb-8642-e33f717d576a.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714384-ff088d00-96f0-11eb-9299-5dc5adfecf17.jpg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/70335592/113714465-16e01100-96f1-11eb-9af9-2f8f8a6c9423.jpg" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113716443-46901880-96f3-11eb-9d96-5b43ea27dc1a.jpg" alt="github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113718966-d8008a00-96f5-11eb-91ee-5f9fbd69b2dd.jpg" alt="visual studio" height="40" style="vertical-align:top; margin:4px">
-
+</P>
 
 
 
