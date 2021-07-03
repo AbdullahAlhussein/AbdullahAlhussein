@@ -11,6 +11,8 @@ AbdullahAlhussein/AbdullahAlhussein is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<br>
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
@@ -31,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 </P>
 
 
-
+<br>
+<br>
 
 
 #### How to Reach me:
