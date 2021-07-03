@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m  Abdullah AlHussein
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Abdullah AlHussein]()!
 ## I'm a Developer!!
 - 👀 I’m interested in Full Stack Web Developers
 - 🌱 I’m currently learning java backend | Spring Boot
