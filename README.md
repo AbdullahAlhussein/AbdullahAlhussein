@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Web Developers
 - 🌱 I’m currently learning java backend | Spring Boot
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me  www.linkedin.com/in/abdullah-alhussein1
+-  How to reach me  www.linkedin.com/in/abdullah-alhussein1
 
 <!---
 AbdullahAlhussein/AbdullahAlhussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-#### How to Reach me:
+#### 📫 How to Reach me:
 You can find me on the following linkedIn platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/abdullah-alhussein1)
 * ✉️ [abdullah30alhussein@gmail.com](mailto:abdullah30alhussein@gmail.com)
