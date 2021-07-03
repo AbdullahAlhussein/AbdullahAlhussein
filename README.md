@@ -34,4 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+#### How to Reach me:
+You can find me on the following linkedIn platforms or send me an email:
+* 👔 [LinkedIn](www.linkedin.com/in/abdullah-alhussein1)
+* ✉️ [sarakalhussain@hotmail.com](mailto:abdullah30alhussein@gmail.com)
 
