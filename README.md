@@ -2,8 +2,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Abdullah AlHussein]()!
 ## I'm a Developer!!
 - 👀 I’m interested in Full Stack Web Developers
-- 🌱 I’m currently learning java backend | Spring Boot
 - 💞️ I’m looking to collaborate on Web Development
+- 🌱 Never stop learning...
 
 <!---
 AbdullahAlhussein/AbdullahAlhussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
