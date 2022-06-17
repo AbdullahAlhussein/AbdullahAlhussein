@@ -1,6 +1,14 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Abdullah AlHussein]()!
-## I'm a Developer!
+
+<br>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23804F79&lines=Software+Engineer.;Always+try+exploring+new+things+;in+software+development+to+solve;real-world+problems."></a>
+</p>
+
+
 - 👀 I’m interested in Full Stack Web Developers
 - 💞️ I’m looking to collaborate on Full Stack Web Developers | Software Development
 - 🌱 Never stop learning...
