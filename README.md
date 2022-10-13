@@ -9,7 +9,7 @@
 </p>
 
 
-- 👀 I’m interested in Spring Boot and Angular
+- 👀 I’m interested in Spring Boot and React & Angular
 - 💞️ I’m looking to collaborate on Full Stack Web Developers
 - 🌱 Never stop learning...
 
